@@ -1,0 +1,27 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-08-06T11:16:28+08:00",
+  "id": "foldername/id",
+  "duration": 0,
+  "title": "Name of template/guide",
+  "summary": "What is the document for",
+  "source": "",
+  "theme": "",
+  "status": [
+    "documentversion(alpha",
+    "beta",
+    "final)"
+  ],
+  "category": [
+    "whatisbeingcreated(usuallystaticpage)"
+  ],
+  "tags": [
+    "documentcode?(usuallymarkdown)"
+  ],
+  "feedback": "Input for contact link",
+  "ga": "Always 0",
+  "url": "foldername/id"
+}
